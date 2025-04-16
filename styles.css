@@ -6,9 +6,9 @@ body {
     padding: 0;
 }
 
-/* Navigation Bar */
+/* Navigation Bar Styling */
 nav {
-    position: fixed;
+    position: fixed; 
     top: 0;
     left: 0;
     width: 100%;
